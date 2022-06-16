@@ -1,6 +1,12 @@
+<h1 align="center">Hey There! 🙋‍♀️</h1>
+<h5 align="center">Let me introduce myself</h5>
+<h6 align="center">Play 👇</h6>
 
 
+https://user-images.githubusercontent.com/66289022/174021793-4928992e-19c6-437d-b71f-fca15a1d477f.mp4
 
 
-https://user-images.githubusercontent.com/66289022/174016617-c0f289c4-7c09-48e9-b940-ab1c9af407f0.mp4
+Reach me here ➡ **rutujajd.2001@gmail.com**
+              ➡ **https://www.linkedin.com/in/rutuja-deshmukh-b014441a0/**
+                  
 
