@@ -19,8 +19,8 @@ Reach me here ➡ **rutujajd.2001@gmail.com**<br>
 </p>
 
 
-## ❤ Views and Followers
+<!--## ❤ Views and Followers
 <a href="https://github.com/develop-er11/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=develop-er11">
 </a>
-<a href="https://github.com/develop-er11?tab=followers"><img src="https://img.shields.io/github/followers/develop-er11?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/develop-er11?tab=followers"><img src="https://img.shields.io/github/followers/develop-er11?label=Followers&style=social" alt="GitHub Badge"></a>-->
