@@ -1,8 +1,12 @@
 
-<!--https://user-images.githubusercontent.com/66289022/174021793-4928992e-19c6-437d-b71f-fca15a1d477f.mp4-->
 
-<img src="https://user-images.githubusercontent.com/66289022/175106924-6de9007e-92c2-4de1-813c-9ebce0f13ce9.png" height="550px" width="1000px">
-<!--<img src="https://user-images.githubusercontent.com/66289022/175109211-084dd508-a061-4b94-bd6d-2457d4ecdc7d.png" height="600px" width="1000px">-->
+<h1 align="center">Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"></h1>
+<h3 align="center">I'm <b>Rutuja</b>, a BTech Computer Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=develop-er11&label=Profile%20views&color=0e75b6&style=flat" alt="develop-er11" />
+
+
+
 
 
 
@@ -48,4 +52,3 @@
     </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=develop-er11&label=Profile%20views&color=0e75b6&style=flat" alt="develop-er11" />
